@@ -21,7 +21,7 @@ var i = 0;
 function iLoveTheBeatles(count){
   var newArray = [];
   do {
-      newArray.push("I love the Beatles");
+      newArray.push("I love the Beatles!");
       count++
   }
   while (count < 15){
