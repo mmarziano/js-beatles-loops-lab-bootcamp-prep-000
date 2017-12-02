@@ -17,3 +17,14 @@ var i = 0;
   }
  return newFacts;
 }
+
+function iLoveTheBeatles(i){
+  var new = [];
+  do {
+      new.push("I love the Beatles");
+  }
+  i++
+  while (i<15){
+    return new
+  }
+}
