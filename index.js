@@ -18,13 +18,13 @@ var i = 0;
  return newFacts;
 }
 
-function iLoveTheBeatles(number){
+function iLoveTheBeatles(count){
   var newArray = [];
   do {
       newArray.push("I love the Beatles");
-      numbers++
+      count++
   }
-  while (number < 15){
+  while (count < 15){
     return newArray;
   }
 }
