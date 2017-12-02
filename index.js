@@ -19,12 +19,12 @@ var i = 0;
 }
 
 function iLoveTheBeatles(i){
-  var new = [];
+  var newArray = [];
   do {
-      new.push("I love the Beatles");
+      newArray.push("I love the Beatles");
   }
   i++
   while (i<15){
-    return new
+    return newArray
   }
 }
